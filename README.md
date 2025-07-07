@@ -53,6 +53,8 @@ Churn-Prediction/
 
 ```
 
+![Data Model](Data_model.png)
+
 ## 🔍 Insights Gained
 
 **SQL Server** allowed me to efficiently organize, cleanse, and version large sets of customer data, forming a strong foundation for analysis.
