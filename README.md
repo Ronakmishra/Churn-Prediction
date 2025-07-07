@@ -19,40 +19,6 @@ A modern analytics project using SQL Server, Power BI, and Python to uncover ins
 - Visual, actionable retention insights with dashboards
 - Machine learning integration for smarter decisions
 
----
-
-## Project Structure
-
-```text
-Churn-Prediction/
-│
-├── codes/
-│   ├── sql/
-│   │   ├── data_exploration.sql
-│   │   ├── data_cleaning_and_views.sql
-│   │   └── table_creation.sql
-│   │
-│   ├── python/
-│   │   ├── churn_modeling_random_forest.ipynb
-│   │   └── prediction_script.py
-│   │
-│   ├── powerbi/
-│   │   ├── power_query_transformations.pbit
-│   │   └── measures_and_calculations.txt
-│   │
-│   └── data/
-│       ├── customer_data.xlsx
-│       └── predictions.csv
-│
-├── images/
-│   └── churn_dashboard_sample.png
-│
-├── README.md
-│
-└── LICENSE
-
-```
-
 ![Data Model](Data_model.png)
 
 ## 🔍 Insights Gained
