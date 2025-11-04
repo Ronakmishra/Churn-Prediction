@@ -4,6 +4,11 @@ A modern analytics project using SQL Server, Power BI, and Python to uncover ins
 
 ---
 
+## 📊 Dashboard
+
+![Churn Dashboard](https://raw.githubusercontent.com/Ronakmishra/Churn-Prediction/main/dashboard/1.png)
+
+
 ## 🚀 Project Overview
 
 #### 🏁 Step 1: Bringing Data to Life (SQL Server)
